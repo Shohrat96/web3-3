@@ -1,0 +1,15 @@
+.personal-info {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: aqua;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.personal-info-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.personal-info-item span:nth-child(1) {
+    font-weight: bold;
+}
